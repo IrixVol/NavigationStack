@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "rejection.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
